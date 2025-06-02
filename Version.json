@@ -1,3 +1,6 @@
 {
-  "Version":"0.7"
+  "Version":"0.7",
+  "MinimumVersion":"0.6",
+  "MinimumPSVersion":"5.0",
+  "Bannner":"Hello World"
 }
