@@ -1,6 +1,6 @@
 {
-  "Version":"0.7",
+  "Version":"1.0",
   "MinimumVersion":"0.7",
-  "MinimumPSVersion":"5.0",
+  "MinimumPSVersion":"7.0",
   "Banner":""
 }
