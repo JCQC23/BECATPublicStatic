@@ -1,6 +1,6 @@
 {
-  "Version":"1.0",
+  "Version":"1.1",
   "MinimumVersion":"0.7",
   "MinimumPSVersion":"5.0",
-  "Banner":""
+  "Banner":"We are aware of issues with the query priod for Message Trace Logs and for now this has been removed for further testing."
 }
