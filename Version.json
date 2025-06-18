@@ -1,6 +1,6 @@
 {
-  "Version":"1.1",
+  "Version":"1.3",
   "MinimumVersion":"1.0",
   "MinimumPSVersion":"5.0",
-  "Banner":"We are aware of issues with the query period for Message Trace Logs and for now this has been removed for further testing."
+  "Banner":""
 }
